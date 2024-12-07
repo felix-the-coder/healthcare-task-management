@@ -9,7 +9,7 @@ The **Healthcare Task Management System** is a robust solution for managing and 
   - Efficient task prioritization with optimized operations:
     - **Insertion**: \(O(1)\)
     - **Decrease Key**: \(O(1)\)
-    - **Extract Min**: \(O(\log n)\)
+    - **Extract Min**: \(O(log n)\)
 - **Role-Based Access Control (RBAC)**:
   - Secure access for:
     - **Administrators**: Manage tasks and permissions.
@@ -38,6 +38,10 @@ The **Healthcare Task Management System** is a robust solution for managing and 
     cd frontend
     npm install (Node.js must be Installed)
     npm start
+
+## Login Credentials
+    username: admin@gmail.com
+    password: admin
 
 ## 📈 Performance
     Task Allocation Time: Reduced by 50% using Fibonacci Heap.
